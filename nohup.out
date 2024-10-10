@@ -1,0 +1,191 @@
+[I 2024-10-10 15:57:22.321 ServerApp] Package notebook took 0.0000s to import
+[I 2024-10-10 15:57:22.860 ServerApp] Package aext_assistant took 0.5384s to import
+[I 2024-10-10 15:57:22.867 ServerApp] Package aext_core took 0.0065s to import
+[I 2024-10-10 15:57:22.889 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-10-10 15:57:22.892 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-10-10 15:57:22.898 ServerApp] Package aext_panels took 0.0305s to import
+[I 2024-10-10 15:57:22.903 ServerApp] Package aext_share_notebook took 0.0047s to import
+[I 2024-10-10 15:57:22.942 ServerApp] Package jupyter_lsp took 0.0387s to import
+[W 2024-10-10 15:57:22.942 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-10-10 15:57:22.954 ServerApp] Package jupyter_server_terminals took 0.0115s to import
+[I 2024-10-10 15:57:22.954 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-10-10 15:57:23.403 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-10-10 15:57:23.403 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-10-10 15:57:25.153 ServerApp] Package panel.io.jupyter_server_extension took 1.7492s to import
+[I 2024-10-10 15:57:25.153 ServerApp] aext_assistant | extension was successfully linked.
+[I 2024-10-10 15:57:25.154 ServerApp] aext_core | extension was successfully linked.
+[I 2024-10-10 15:57:25.154 ServerApp] aext_panels | extension was successfully linked.
+[I 2024-10-10 15:57:25.154 ServerApp] aext_share_notebook | extension was successfully linked.
+[I 2024-10-10 15:57:25.154 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-10-10 15:57:25.162 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-10-10 15:57:25.166 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-10-10 15:57:25.170 ServerApp] notebook | extension was successfully linked.
+[I 2024-10-10 15:57:25.709 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-10-10 15:57:25.709 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-10-10 15:57:25.779 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-10-10 15:57:25.780 ServerApp] Registered aext_assistant server extension
+[I 2024-10-10 15:57:25.780 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2024-10-10 15:57:25.781 ServerApp] Registered aext_core server extension
+[I 2024-10-10 15:57:25.781 ServerApp] aext_core | extension was successfully loaded.
+[I 2024-10-10 15:57:25.782 ServerApp] Registered aext_panels server extension
+[I 2024-10-10 15:57:25.782 ServerApp] aext_panels | extension was successfully loaded.
+[I 2024-10-10 15:57:25.782 ServerApp] Registered aext_share_notebook_server server extension
+[I 2024-10-10 15:57:25.782 ServerApp] aext_share_notebook | extension was successfully loaded.
+[I 2024-10-10 15:57:25.785 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-10-10 15:57:25.786 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-10-10 15:57:25.794 LabApp] JupyterLab extension loaded from /opt/anaconda3/lib/python3.11/site-packages/jupyterlab
+[I 2024-10-10 15:57:25.794 LabApp] JupyterLab application directory is /opt/anaconda3/share/jupyter/lab
+[I 2024-10-10 15:57:25.795 LabApp] Extension Manager is 'pypi'.
+[I 2024-10-10 15:57:25.801 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-10-10 15:57:25.806 ServerApp] notebook | extension was successfully loaded.
+[I 2024-10-10 15:57:25.806 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-10-10 15:57:25.807 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-10-10 15:57:25.807 ServerApp] The port 8889 is already in use, trying another port.
+[I 2024-10-10 15:57:25.808 ServerApp] The port 8890 is already in use, trying another port.
+[I 2024-10-10 15:57:25.808 ServerApp] The port 8891 is already in use, trying another port.
+[I 2024-10-10 15:57:25.809 ServerApp] The port 8892 is already in use, trying another port.
+[I 2024-10-10 15:57:25.810 ServerApp] Serving notebooks from local directory: /Users/baruchgottesman/AIClass/2024.10.10 - Homework for Module 18/neural-network-challenge-1
+[I 2024-10-10 15:57:25.810 ServerApp] Jupyter Server 2.10.0 is running at:
+[I 2024-10-10 15:57:25.810 ServerApp] http://localhost:8873/tree?token=d566fe47d526a9eac3f58210102ee45e4bd030555c82c7a4
+[I 2024-10-10 15:57:25.810 ServerApp]     http://127.0.0.1:8873/tree?token=d566fe47d526a9eac3f58210102ee45e4bd030555c82c7a4
+[I 2024-10-10 15:57:25.810 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-10-10 15:57:25.814 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/baruchgottesman/Library/Jupyter/runtime/jpserver-55074-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8873/tree?token=d566fe47d526a9eac3f58210102ee45e4bd030555c82c7a4
+        http://127.0.0.1:8873/tree?token=d566fe47d526a9eac3f58210102ee45e4bd030555c82c7a4
+[I 2024-10-10 15:57:25.884 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.01s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2024-10-10 15:57:37.509 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[W 2024-10-10 15:57:42.053 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 15:57:43.541 ServerApp] Kernel started: 8258f9c1-70da-4a7a-b6cb-9defb2522888
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-10-10 15:57:45.543 ServerApp] Connecting to kernel 8258f9c1-70da-4a7a-b6cb-9defb2522888.
+[I 2024-10-10 15:59:42.739 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 15:59:42.741 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:22:29.382 ServerApp] Package notebook took 0.0000s to import
+[I 2024-10-10 16:22:29.799 ServerApp] Package aext_assistant took 0.4161s to import
+[I 2024-10-10 16:22:29.804 ServerApp] Package aext_core took 0.0044s to import
+[I 2024-10-10 16:22:29.823 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-10-10 16:22:29.827 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-10-10 16:22:29.830 ServerApp] Package aext_panels took 0.0261s to import
+[I 2024-10-10 16:22:29.834 ServerApp] Package aext_share_notebook took 0.0037s to import
+[I 2024-10-10 16:22:29.867 ServerApp] Package jupyter_lsp took 0.0323s to import
+[W 2024-10-10 16:22:29.873 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-10-10 16:22:29.888 ServerApp] Package jupyter_server_terminals took 0.0143s to import
+[I 2024-10-10 16:22:29.889 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2024-10-10 16:22:30.359 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2024-10-10 16:22:30.359 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-10-10 16:22:31.902 ServerApp] Package panel.io.jupyter_server_extension took 1.5414s to import
+[I 2024-10-10 16:22:31.903 ServerApp] aext_assistant | extension was successfully linked.
+[I 2024-10-10 16:22:31.903 ServerApp] aext_core | extension was successfully linked.
+[I 2024-10-10 16:22:31.903 ServerApp] aext_panels | extension was successfully linked.
+[I 2024-10-10 16:22:31.903 ServerApp] aext_share_notebook | extension was successfully linked.
+[I 2024-10-10 16:22:31.903 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-10-10 16:22:31.908 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-10-10 16:22:31.913 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-10-10 16:22:31.917 ServerApp] notebook | extension was successfully linked.
+[I 2024-10-10 16:22:32.343 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-10-10 16:22:32.343 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-10-10 16:22:32.408 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-10-10 16:22:32.409 ServerApp] Registered aext_assistant server extension
+[I 2024-10-10 16:22:32.409 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2024-10-10 16:22:32.409 ServerApp] Registered aext_core server extension
+[I 2024-10-10 16:22:32.409 ServerApp] aext_core | extension was successfully loaded.
+[I 2024-10-10 16:22:32.411 ServerApp] Registered aext_panels server extension
+[I 2024-10-10 16:22:32.411 ServerApp] aext_panels | extension was successfully loaded.
+[I 2024-10-10 16:22:32.411 ServerApp] Registered aext_share_notebook_server server extension
+[I 2024-10-10 16:22:32.411 ServerApp] aext_share_notebook | extension was successfully loaded.
+[I 2024-10-10 16:22:32.413 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-10-10 16:22:32.416 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-10-10 16:22:32.423 LabApp] JupyterLab extension loaded from /opt/anaconda3/lib/python3.11/site-packages/jupyterlab
+[I 2024-10-10 16:22:32.424 LabApp] JupyterLab application directory is /opt/anaconda3/share/jupyter/lab
+[I 2024-10-10 16:22:32.425 LabApp] Extension Manager is 'pypi'.
+[I 2024-10-10 16:22:32.427 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-10-10 16:22:32.434 ServerApp] notebook | extension was successfully loaded.
+[I 2024-10-10 16:22:32.435 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-10-10 16:22:32.436 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-10-10 16:22:32.437 ServerApp] The port 8889 is already in use, trying another port.
+[I 2024-10-10 16:22:32.437 ServerApp] The port 8890 is already in use, trying another port.
+[I 2024-10-10 16:22:32.438 ServerApp] The port 8891 is already in use, trying another port.
+[I 2024-10-10 16:22:32.438 ServerApp] The port 8892 is already in use, trying another port.
+[I 2024-10-10 16:22:32.439 ServerApp] Serving notebooks from local directory: /Users/baruchgottesman/AIClass/2024.10.10 - Homework for Module 18/neural-network-challenge-1
+[I 2024-10-10 16:22:32.439 ServerApp] Jupyter Server 2.10.0 is running at:
+[I 2024-10-10 16:22:32.439 ServerApp] http://localhost:8870/tree?token=556d8eee593c5b7c39880aef8ddfdb27b8af9f73cf20662f
+[I 2024-10-10 16:22:32.439 ServerApp]     http://127.0.0.1:8870/tree?token=556d8eee593c5b7c39880aef8ddfdb27b8af9f73cf20662f
+[I 2024-10-10 16:22:32.439 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-10-10 16:22:32.446 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/baruchgottesman/Library/Jupyter/runtime/jpserver-55816-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8870/tree?token=556d8eee593c5b7c39880aef8ddfdb27b8af9f73cf20662f
+        http://127.0.0.1:8870/tree?token=556d8eee593c5b7c39880aef8ddfdb27b8af9f73cf20662f
+[I 2024-10-10 16:22:32.515 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-10-10 16:22:39.919 ServerApp] Creating new notebook in 
+[W 2024-10-10 16:31:16.782 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[W 2024-10-10 16:31:20.459 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:31:21.304 ServerApp] Kernel started: ee2b326f-8b06-48e5-9dea-d08fb77bf2bc
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2024-10-10 16:31:22.798 ServerApp] Connecting to kernel ee2b326f-8b06-48e5-9dea-d08fb77bf2bc.
+[I 2024-10-10 16:33:20.656 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:33:20.657 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+2024-10-10 16:33:25.161356: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 2024-10-10 16:35:20.685 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:35:20.686 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:37:20.709 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:37:20.710 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:45:20.891 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:45:20.904 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:47:21.818 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:47:21.819 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:53:22.815 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:53:22.819 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:55:22.872 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:55:22.874 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:55:36.943 ServerApp] Kernel restarted: ee2b326f-8b06-48e5-9dea-d08fb77bf2bc
+[I 2024-10-10 16:55:36.950 ServerApp] Starting buffering for ee2b326f-8b06-48e5-9dea-d08fb77bf2bc:28e65a8f-c2e1-466e-bbd8-13acc7b24e46
+[I 2024-10-10 16:55:36.959 ServerApp] Connecting to kernel ee2b326f-8b06-48e5-9dea-d08fb77bf2bc.
+[I 2024-10-10 16:55:36.960 ServerApp] Restoring connection for ee2b326f-8b06-48e5-9dea-d08fb77bf2bc:28e65a8f-c2e1-466e-bbd8-13acc7b24e46
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-10 16:55:42.649883: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 2024-10-10 16:57:22.933 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 16:57:22.935 ServerApp] Notebook student_loans_with_deep_learning.ipynb is not trusted
+[I 2024-10-10 16:58:38.599 ServerApp] Kernel restarted: ee2b326f-8b06-48e5-9dea-d08fb77bf2bc
+[I 2024-10-10 16:58:38.603 ServerApp] Starting buffering for ee2b326f-8b06-48e5-9dea-d08fb77bf2bc:28e65a8f-c2e1-466e-bbd8-13acc7b24e46
+[I 2024-10-10 16:58:38.608 ServerApp] Connecting to kernel ee2b326f-8b06-48e5-9dea-d08fb77bf2bc.
+[I 2024-10-10 16:58:38.608 ServerApp] Restoring connection for ee2b326f-8b06-48e5-9dea-d08fb77bf2bc:28e65a8f-c2e1-466e-bbd8-13acc7b24e46
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+2024-10-10 16:58:44.596980: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 2024-10-10 16:59:22.969 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:01:23.020 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:03:23.135 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:05:23.167 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:07:23.202 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:09:23.250 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[I 2024-10-10 17:11:10.962 ServerApp] Saving file at /student_loans_with_deep_learning.ipynb
+[W 2024-10-10 17:11:11.013 ServerApp] /Users/baruchgottesman/AIClass/2024.10.10 - Homework for Module 18/neural-network-challenge-1/.~student_loans_with_deep_learning.ipynb doesn't exist
